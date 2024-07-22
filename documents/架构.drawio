@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T09:56:25.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="3XngjRjSsLPCJBYlXXnB" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T09:56:41.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="SmieEvhuir8hw5A2RQ-y" version="24.7.1" type="github">
   <diagram name="第 1 页" id="4xeG-ASjtE01gqBWx2Hc">
-    <mxGraphModel dx="1466" dy="5512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="5156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,7 +168,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RQC1SZQL9GjInuUlFMc3-104" value="控制器主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="801.5" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RQC1SZQL9GjInuUlFMc3-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="RQC1SZQL9GjInuUlFMc3-89" target="RQC1SZQL9GjInuUlFMc3-30">
           <mxGeometry relative="1" as="geometry">
