@@ -1,9 +1,86 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="3_jeZ16NF04nPEJV-bIj">
-    <mxGraphModel>
+    <mxGraphModel dx="1514" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="670" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NyXsr0OjwPZcDjspkjsY-2" target="NyXsr0OjwPZcDjspkjsY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NyXsr0OjwPZcDjspkjsY-2" target="NyXsr0OjwPZcDjspkjsY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NyXsr0OjwPZcDjspkjsY-2" target="NyXsr0OjwPZcDjspkjsY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-2" value="事件系统/OS抽象层" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="240" width="90" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-4" value="系统内核" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="120" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NyXsr0OjwPZcDjspkjsY-8" target="NyXsr0OjwPZcDjspkjsY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-8" value="用户自定义事件处理函数2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NyXsr0OjwPZcDjspkjsY-9" target="NyXsr0OjwPZcDjspkjsY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-9" value="用户自定义事件处理函数n" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NyXsr0OjwPZcDjspkjsY-10" target="NyXsr0OjwPZcDjspkjsY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-10" value="用户自定义事件处理函数1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=60;exitDy=50;exitPerimeter=0;" edge="1" parent="1" source="NyXsr0OjwPZcDjspkjsY-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-19" value="驱动模块1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-20" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.015;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NyXsr0OjwPZcDjspkjsY-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="610" y="268" as="sourcePoint" />
+            <mxPoint x="740" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NyXsr0OjwPZcDjspkjsY-1" target="NyXsr0OjwPZcDjspkjsY-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1021.24" y="430" as="sourcePoint" />
+            <mxPoint x="920.0000000000002" y="391.28" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-29" value="事件总线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyXsr0OjwPZcDjspkjsY-22">
+          <mxGeometry x="-0.0167" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=60;exitDy=50;exitPerimeter=0;" edge="1" parent="1" source="NyXsr0OjwPZcDjspkjsY-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-24" value="驱动模块2" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NyXsr0OjwPZcDjspkjsY-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyXsr0OjwPZcDjspkjsY-25" value="驱动模块n" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
