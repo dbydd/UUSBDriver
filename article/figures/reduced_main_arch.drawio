@@ -58,7 +58,7 @@
           <mxGeometry x="48" y="180" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="08FRWVsudWINDoKfZmqp-4" value="USB子系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="08FRWVsudWINDoKfZmqp-28">
-          <mxGeometry x="85" y="410" width="90" height="30" as="geometry" />
+          <mxGeometry x="80" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="08FRWVsudWINDoKfZmqp-29" value="" style="group;fontSize=19;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="620" y="50" width="670" height="320" as="geometry" />
