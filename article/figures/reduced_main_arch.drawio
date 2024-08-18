@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="4xeG-ASjtE01gqBWx2Hc">
-    <mxGraphModel dx="1466" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1805" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,6 +196,30 @@
         </mxCell>
         <mxCell id="08FRWVsudWINDoKfZmqp-45" value="红色：发送URB&lt;div style=&quot;font-size: 19px;&quot;&gt;蓝色：接收UCB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="970" y="660" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08FRWVsudWINDoKfZmqp-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="260" width="270" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="08FRWVsudWINDoKfZmqp-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="08FRWVsudWINDoKfZmqp-53" target="08FRWVsudWINDoKfZmqp-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08FRWVsudWINDoKfZmqp-53" value="MIO选择" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08FRWVsudWINDoKfZmqp-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="08FRWVsudWINDoKfZmqp-55" target="08FRWVsudWINDoKfZmqp-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08FRWVsudWINDoKfZmqp-55" value="引脚启用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08FRWVsudWINDoKfZmqp-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="08FRWVsudWINDoKfZmqp-58" target="08FRWVsudWINDoKfZmqp-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08FRWVsudWINDoKfZmqp-58" value="I2C配置选择" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08FRWVsudWINDoKfZmqp-59" value="I2C初始化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
