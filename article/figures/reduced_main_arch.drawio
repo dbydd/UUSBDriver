@@ -302,7 +302,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="08FRWVsudWINDoKfZmqp-81" value="操作系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="08FRWVsudWINDoKfZmqp-88">
-          <mxGeometry x="225" y="10" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="10" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="08FRWVsudWINDoKfZmqp-91" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;" vertex="1" parent="08FRWVsudWINDoKfZmqp-88">
           <mxGeometry x="250" y="110" width="200" height="200" as="geometry" />
