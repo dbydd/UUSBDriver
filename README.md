@@ -32,6 +32,6 @@ Uniform USB System Busified Driver
 ## 文件结构：
 
 - [文档](./documents/)
-- [代码](./code/)
+- [代码](./code)
 - [论文](./article/)
 - [技术积累](./documents/blogs)
