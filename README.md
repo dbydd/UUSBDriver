@@ -28,7 +28,11 @@ Uniform USB System Busified Driver
 ## 短期 TODO
 
 - [x] 完成位于[arceos_experiment](https://github.com/arceos-usb/arceos_experiment/tree/usb-camera-dbydd)下的 USB 系统的原型的编写
-  - 目前基于arceos进行开发，待功能成熟后会将代码剥离出来
+  - 目前基于arceos进行开发，[正在剥离并重构](https://github.com/arceos-usb/axusb_host.git)
+    - 本次重构的目标是实现驱动本身的异步化，并使其兼容其他usb 栈
+    - 如：[cotton](https://github.com/pdh11/cotton.git),[embassy](https://github.com/embassy-rs/embassy/tree/main/embassy-usb)
+    - 当前采用embassy作为运行时与异步工具crate，考虑将异步工具更换为更好使的tokio栈上去
+    - 话说回来，tokio能在nostd下工作嘛？主要是需要一些async的lock，channel一类的东西。
 ## 文件结构：
 
 - [文档](./documents/)
