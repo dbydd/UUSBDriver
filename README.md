@@ -15,7 +15,7 @@ Uniform USB System Busified Driver
 - [x] 能正常运行
 - [x] 非线性编程模型支持(异步&多线程)
 - [ ] 跨 OS（Linux 上能运行）
-- [ ] 支持基本的 usb 类型(键盘/鼠标/存储/摄像头)
+- [ ] **支持基本的 usb 类型(键盘/鼠标/存储/摄像头)**
 
 ## 长期 TODO
 
