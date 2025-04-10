@@ -9,7 +9,6 @@ Uniform USB System Busified Driver
 
 - [ ] 说明任务未开始
 - [x] 说明任务已完成
-- [-] 说明任务进行中
 
 ## 项目目标
 
@@ -24,7 +23,7 @@ Uniform USB System Busified Driver
 - [x] 完善异步部分，将系统修改为基于中断/异步
 - [x] 设计一套可扩展的驱动加载系统
 - [x] 适配设备树，重写需要的库，形成最小的可运行系统
-- [-] 撰写论文
+- [ ] **撰写论文**
 
 ## 短期 TODO
 
