@@ -1,3 +1,0 @@
-[submodule "code"]
-	path = code
-	url = git@github.com:dbydd/driver_usb.git

@@ -1,0 +1,253 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.0.14">
+  <diagram name="Page-1" id="55xBQpfyiRm7fCmjJCL7">
+    <mxGraphModel dx="1783" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gp7c186rhyyb2NEcoKu6-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="770" y="310" width="460" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-1" target="gp7c186rhyyb2NEcoKu6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-1" value="USB系统实例创建" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-2" target="gp7c186rhyyb2NEcoKu6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-2" value="主机驱动层&lt;div&gt;初始化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-5" target="gp7c186rhyyb2NEcoKu6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-5" value="主机控制器&lt;div&gt;内存实例创建&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-7" target="gp7c186rhyyb2NEcoKu6-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="740" />
+              <mxPoint x="750" y="740" />
+              <mxPoint x="750" y="300" />
+              <mxPoint x="840" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-7" target="gp7c186rhyyb2NEcoKu6-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-7" target="gp7c186rhyyb2NEcoKu6-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-7" value="主机控制器&lt;div&gt;初始化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-15" target="gp7c186rhyyb2NEcoKu6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-15" value="初始载入&lt;div&gt;各驱动模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-18" value="XHCI&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;控制器&lt;/span&gt;&lt;div&gt;初始化&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;流程&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="930" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-19" target="gp7c186rhyyb2NEcoKu6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-19" value="硬件重置开始" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-26" target="gp7c186rhyyb2NEcoKu6-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-26" value="&lt;div&gt;将寄存器&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;run_stop置为0&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-26" target="gp7c186rhyyb2NEcoKu6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-29" target="gp7c186rhyyb2NEcoKu6-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-29" value="等待寄存器&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hc_halted置1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-31" target="gp7c186rhyyb2NEcoKu6-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-31" value="等待寄存器&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cnr置0&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-33" target="gp7c186rhyyb2NEcoKu6-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-33" value="将寄存器&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hcr置1&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-35" target="gp7c186rhyyb2NEcoKu6-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-35" value="等待寄存器&lt;div&gt;hcr与cnr位置零&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-37" target="gp7c186rhyyb2NEcoKu6-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-37" value="根据ext_cap信息&lt;div&gt;设置对应寄存器&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;为硬件槽位数量&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-39" target="gp7c186rhyyb2NEcoKu6-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-39" value="为控制器分配dcbaa内存区域，并初始化对应结构体" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="930" y="800" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-41" target="gp7c186rhyyb2NEcoKu6-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-41" value="将dcbaap寄存器设置为dcbaa内存区域起始内存地址" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="930" y="720" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-43" target="gp7c186rhyyb2NEcoKu6-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-43" value="分配命令环，并将crcr寄存器指向命令环地址" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="930" y="640" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-45" target="gp7c186rhyyb2NEcoKu6-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-45" value="初始化异步运行环境，并设置控制器的中断信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="930" y="560" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-47" target="gp7c186rhyyb2NEcoKu6-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-47" value="初始化异步环境唤醒方法，并设置控制器的中断信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="930" y="480" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-49" target="gp7c186rhyyb2NEcoKu6-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-49" value="分配&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;scratch pad&lt;/span&gt;&lt;div&gt;内存区域，&lt;/div&gt;&lt;div&gt;并设置指针寄存器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="930" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-51" target="gp7c186rhyyb2NEcoKu6-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-51" value="置位寄存器&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;run_stop为1，&lt;/span&gt;&lt;div&gt;启动控制器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="930" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-53" target="gp7c186rhyyb2NEcoKu6-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-53" value="初始化控制器各&lt;div&gt;物理接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-55" target="gp7c186rhyyb2NEcoKu6-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-55" value="探测各物理接口上所连接的设备" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-57" target="gp7c186rhyyb2NEcoKu6-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-57" target="gp7c186rhyyb2NEcoKu6-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="510" />
+              <mxPoint x="1070" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-57" value="为探测到的设备&lt;div&gt;进行初始化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="480" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-72" target="gp7c186rhyyb2NEcoKu6-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-72" value="USB驱动层初始化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-76" target="gp7c186rhyyb2NEcoKu6-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-76" value="初始化事件总线，并注册初始的&lt;div&gt;事件处理函数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-79" target="gp7c186rhyyb2NEcoKu6-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-79" value="事件总线初始化完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-88" target="gp7c186rhyyb2NEcoKu6-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-88" value="等待事件总线初始化&lt;div&gt;完成&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-90" target="gp7c186rhyyb2NEcoKu6-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-90" value="发送&lt;div&gt;新设备插入&lt;/div&gt;&lt;div&gt;事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-92" target="gp7c186rhyyb2NEcoKu6-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-92" value="初始的&lt;div&gt;事件处理函数&lt;/div&gt;&lt;div&gt;创建&lt;div&gt;驱动无关设备实例&lt;/div&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-101" target="gp7c186rhyyb2NEcoKu6-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-101" value="进行驱动无关设备实例的初始化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="670" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-105" target="gp7c186rhyyb2NEcoKu6-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-105" value="设备初始化完成，&lt;div&gt;开始根据所加载驱动模块进行运行&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="890" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-112" target="gp7c186rhyyb2NEcoKu6-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-112" value="为设备分配对应&lt;div&gt;内存结构体&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="560" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-113" target="gp7c186rhyyb2NEcoKu6-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-113" value="为设备分配对应&lt;div&gt;内存结构体&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="640" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-117" target="gp7c186rhyyb2NEcoKu6-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-117" value="为设备分配逻辑槽位" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="720" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-118" target="gp7c186rhyyb2NEcoKu6-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-118" value="获取设备描述符" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="800" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp7c186rhyyb2NEcoKu6-129" target="gp7c186rhyyb2NEcoKu6-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-129" value="主机驱动层初始化完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="910" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp7c186rhyyb2NEcoKu6-131" value="USB系统&lt;div&gt;初始化完成&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
