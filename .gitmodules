@@ -1,0 +1,12 @@
+[submodule "axusb_host"]
+	path = axusb_host
+	url = git@github.com:arceos-usb/axusb_host
+[submodule "usb-descriptor-decoder-rs"]
+	path = usb-descriptor-decoder-rs
+	url = git@github.com:arceos-usb/usb-descriptor-decoder-rs.git
+[submodule "axhid"]
+	path = axhid
+	url = git@github.com:arceos-usb/axhid.git
+[submodule "dynamic_join_array"]
+	path = dynamic_join_array
+	url = git@github.com:dbydd/dynamic_join_array.git
