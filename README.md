@@ -3,6 +3,9 @@
 Uniform USB System Busified Driver
 通用跨平台 USB 驱动框架
 
+## 成果复现
+已提供docker镜像，详情参考[复现指南](https://github.com/dbydd/UUSBDriver/blob/main/documents/20250410-Docker%E7%8E%AF%E5%A2%83%E5%A4%8D%E7%8E%B0%E6%95%99%E7%A8%8B.md)
+
 ## 解释
 
 - **加粗**说明任务正在进行中
